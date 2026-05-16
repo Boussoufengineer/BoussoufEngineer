@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username= BoussoufEngineer&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user= BoussoufEngineer&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username= BoussoufEngineer&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
