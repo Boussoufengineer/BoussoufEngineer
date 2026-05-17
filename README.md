@@ -3,7 +3,26 @@
 </div>
 
 
-<h1>Hi there 👋</h1><h4>## 🚀 Currently Working On</h4><p>- Building modern cross-platform mobile applications</p><p>- Crafting clean &amp; scalable mobile architectures</p><p>- Creating smooth user-focused mobile experiences</p><p><br></p><p>## 🤝 Collaboration &amp; Contact</p><p>- Open to freelance opportunities &amp; innovative mobile projects</p><p>- Interested in collaborating with startups &amp; ambitious teams</p><p>📩 Contact me: mohamedboussouf.dev@gmail.com</p><p><br></p><p>## 🌱 Currently Learning</p><p>- Advanced Problem Solved</p><p>- Advanced Flutter architecture</p><p>- Mobile performance optimization</p><p>- AI integration in mobile applications</p><p>---</p><p>## 🌍 Follow My Programming Journey</p><p>&lt;p align="left"&gt;</p><p>&nbsp; &lt;a href="https://youtube.com/@boussoufengineer"&gt;</p><p>&nbsp; &nbsp; &lt;img src="https://skillicons.dev/icons?i=youtube" /&gt;</p><p>&nbsp; &lt;/a&gt;</p><p>&nbsp; &lt;a href="https://instagram.com/@boussoufengineer"&gt;</p><p>&nbsp; &nbsp; &lt;img src="https://skillicons.dev/icons?i=instagram" /&gt;</p><p>&nbsp; &lt;/a&gt;</p><p>&nbsp; &lt;a href="https://discord.gg/K723ZjsUr"&gt;<br>&nbsp; &nbsp;&lt;img src="https://skillicons.dev/icons?i=discord" /&gt;<br>&nbsp;&lt;/a&gt;</p><p>&lt;/p&gt;</p>
+<h1>Hi there 👋</h1><h4>## 🚀 Currently Working On</h4><p>- Building modern cross-platform mobile applications</p><p>- Crafting clean &amp; scalable mobile architectures</p><p>- Creating smooth user-focused mobile experiences</p><p><br></p><p>## 🤝 Collaboration &amp; Contact</p><p>- Open to freelance opportunities &amp; innovative mobile projects</p><p>- Interested in collaborating with startups &amp; ambitious teams</p><p>📩 Contact me: mohamedboussouf.dev@gmail.com</p><p><br></p><p>## 🌱 Currently Learning</p><p>- Advanced Problem Solved</p><p>- Advanced Flutter architecture</p><p>- Mobile performance optimization</p><p>- AI integration in mobile applications</p><p>---</p><p>## 🌍 Follow My Programming Journey
+<p align="left">
+
+  <a href="https://youtube.com/@boussoufengineer">
+
+    <img src="https://skillicons.dev/icons?i=youtube" />
+
+  </a>
+
+  <a href="https://instagram.com/@boussoufengineer">
+
+    <img src="https://skillicons.dev/icons?i=instagram" />
+
+  </a>
+
+  <a href="https://discord.gg/K723ZjsUr">
+   <img src="https://skillicons.dev/icons?i=discord" />
+ </a>
+
+</p>
 
 
 <h2>💫 About Me:</h2>
