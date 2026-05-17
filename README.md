@@ -55,45 +55,65 @@ Right now, i’m focused on:
 
 #### Languages:
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" alt="Python" />
-  <br><strong>Python</strong>
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="72" />
+<br><br>
+<b>Python</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="52" height="52" alt="Dart" />
-  <br><strong>Dart</strong>
+<td width="25"></td>
+
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dart" width="72" />
+<br><br>
+<b>Dart</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52" height="52" alt="PHP" />
-  <br><strong>PHP</strong>
+<td width="25"></td>
+
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=php" width="72" />
+<br><br>
+<b>PHP</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="52" height="52" alt="Swift" />
-  <br><strong>Swift</strong>
+<td width="25"></td>
+
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=swift" width="72" />
+<br><br>
+<b>Swift</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="52" height="52" alt="Kotlin" />
-  <br><strong>Kotlin</strong>
+<td width="25"></td>
+
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" width="72" />
+<br><br>
+<b>Kotlin</b>
 </td>
 
-<td align="center" width="96">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="52" alt="SQL" />
-  <br><strong>SQL</strong>
+<td width="25"></td>
+
+<td align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="72" />
+<br><br>
+<b>SQL</b>
 </td>
+
 </tr>
 </table>
 
 </div>
+
+## ⚡ Tech Arsenal
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
