@@ -7,7 +7,7 @@
 <p align="left">
 
   <a href="https://youtube.com/@boussoufengineer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="30" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="60" />
 
   </a>
 
