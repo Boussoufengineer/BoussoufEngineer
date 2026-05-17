@@ -11,13 +11,13 @@
 <h3>🤝 Collaboration &amp; Contact</h3>
   <p>- Open to freelance opportunities &amp; innovative mobile projects</p>
   <p>- Interested in collaborating with startups &amp; ambitious teams</p>
-  <p>📩 Contact me:    <p><br></p>  mohamedboussouf.dev@gmail.com</p>
+  <p>📩 Contact me:    mohamedboussouf.dev@gmail.com</p>
 <h3>🌱 Currently Learning</h3>
   <p>- Advanced Problem Solved</p>
   <p>- Advanced Flutter architecture</p>
   <p>- Mobile performance optimization</p>
   <p>- AI integration in mobile applications</p>
-  <p>---</p><h3>🌍 Follow My Programming Journey
+  <p>---</p><h3>🌍 Follow My Programming Journey <p><br></p>
 <p align="left">
 
   <a href="https://youtube.com/@boussoufengineer">
