@@ -51,68 +51,9 @@ Right now, i’m focused on:
 🎯 My goal is simple: become a strong software engineer who builds useful, real-world products.
 
 
-## Tech Stack
-
-#### Languages:
-
 ## ⚡ Tech Stack
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="72" />
-<br><br>
-<b>Python</b>
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=dart" width="72" />
-<br><br>
-<b>Dart</b>
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=php" width="72" />
-<br><br>
-<b>PHP</b>
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=swift" width="72" />
-<br><br>
-<b>Swift</b>
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" width="72" />
-<br><br>
-<b>Kotlin</b>
-</td>
-
-<td width="25"></td>
-
-<td align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="72" />
-<br><br>
-<b>SQL</b>
-</td>
-
-</tr>
-</table>
-
-</div>
-
-## ⚡ Tech Arsenal
+#### Languages:
 
 
 <p align="center">
