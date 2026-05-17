@@ -7,13 +7,11 @@
 <p align="left">
 
   <a href="https://youtube.com/@boussoufengineer">
-
     <img src="https://skillicons.dev/icons?i=youtube" />
 
   </a>
 
   <a href="https://instagram.com/@boussoufengineer">
-
     <img src="https://skillicons.dev/icons?i=instagram" />
 
   </a>
@@ -24,10 +22,19 @@
 
 </p>
 
+##💫 About Me:
+i’m a self-taught developer on a mission to turn ideas into real working software.
 
-<h2>💫 About Me:</h2>
-<p>i’m a self-taught developer on a mission to turn ideas into real working software.</p><p><br></p><p>i don’t just code — i try to understand how things actually work under the hood, then build from there.</p><p><br></p><p>Right now, i’m focused on:</p><p><br></p><p>* Building real projects instead of just tutorials</p><p>* Strengthening my software engineering fundamentals</p><p>* Preparing for mobile app development</p><p>* Improving my problem-solving mindset every day</p><p><br></p><p>🎯 My goal is simple: become a strong software engineer who builds useful, real-world products.</p><ul>
-</ul>
+i don’t just code — i try to understand how things actually work under the hood, then build from there.
+
+Right now, i’m focused on:
+
+* Building real projects instead of just tutorials
+* Strengthening my software engineering fundamentals
+* Preparing for mobile app development
+* Improving my problem-solving mindset every day
+
+🎯 My goal is simple: become a strong software engineer who builds useful, real-world products.
 
 
 ## Tech Stack
