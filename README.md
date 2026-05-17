@@ -63,6 +63,17 @@ Right now, i’m focused on:
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
+#### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="46" height="46" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" width="46" height="46" style="margin: 0 10px;" />
+</p>
+
 #### Libraries & Frameworks:
 
 <p align="center">
