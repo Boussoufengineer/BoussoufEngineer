@@ -53,7 +53,7 @@ Right now, i’m focused on:
 
 ## Tech Stack
 
-### Languages:
+#### Languages:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -63,7 +63,7 @@ Right now, i’m focused on:
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
-### Libraries & Frameworks:
+#### Libraries & Frameworks:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -73,7 +73,7 @@ Right now, i’m focused on:
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
-### Tools & Platforms:
+#### Tools & Platforms:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
@@ -85,7 +85,7 @@ Right now, i’m focused on:
   <img src="https://skillicons.dev/icons?i=jira" alt="Jira" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
-### Databases:
+#### Databases:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
