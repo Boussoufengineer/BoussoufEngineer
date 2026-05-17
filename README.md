@@ -5,7 +5,7 @@
 
 <h1>Hi there 👋</h1><h4>🚀 Currently Working On</h4><p>- Building modern cross-platform mobile applications</p><p>- Crafting clean &amp; scalable mobile architectures</p><p>- Creating smooth user-focused mobile experiences</p><p><br></p><p>🤝 Collaboration &amp; Contact</p><p>- Open to freelance opportunities &amp; innovative mobile projects</p><p>- Interested in collaborating with startups &amp; ambitious teams</p><p>📩 Contact me:    mohamedboussouf.dev@gmail.com</p><p><br></p><p>🌱 Currently Learning</p><p>- Advanced Problem Solved</p><p>- Advanced Flutter architecture</p><p>- Mobile performance optimization</p><p>- AI integration in mobile applications</p><p>---</p><p>🌍 Follow My Programming Journey
 <p align="left">
-
+* Portfolio: Coming soon 🚀
   <a href="https://youtube.com/@boussoufengineer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="50"  height="50" />&nbsp;&nbsp;&nbsp;
 
@@ -80,8 +80,6 @@ Right now, i’m focused on:
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
 </p>
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-* Portfolio: Coming soon 🚀
 
 ---
 
