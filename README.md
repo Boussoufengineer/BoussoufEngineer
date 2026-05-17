@@ -7,12 +7,12 @@
 <p align="left">
 
   <a href="https://youtube.com/@boussoufengineer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="30" height="30" />
 
   </a>
 
   <a href="https://instagram.com/@boussoufengineer">
-    <img src="https://skillicons.dev/icons?i=instagram" width="24" height="24" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
 
   </a>
 
