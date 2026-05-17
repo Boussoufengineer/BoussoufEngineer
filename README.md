@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://instagram.com/@boussoufengineer">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="24" height="24" />
 
   </a>
 
