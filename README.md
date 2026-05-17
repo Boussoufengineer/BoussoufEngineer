@@ -97,7 +97,7 @@ Right now, i’m focused on:
 
 ---
 
-⭐ *I’m not just learning to code — I’m learning to build.*
+⭐ *i’m not learning to code — I’m learning to build products that solve problems.*
 
 
 
