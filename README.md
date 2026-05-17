@@ -1,99 +1,58 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://githance.in/api/render?type=header&variant=circuit&v=rect-v4&name=Mohamed+Boussouf&subtitle=Future+Software+Engineer+%7C+Mobile+App+Developer&theme=aurora&a=Problem+Solved&a=Design+Systems&a=Open+Source" alt="Custom header" />
+</div>
 
-<!--
-**Boussoufengineer/BoussoufEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Hi there 👋</h1><h4>## 🚀 Currently Working On</h4><p>- Building modern cross-platform mobile applications</p><p>- Crafting clean &amp; scalable mobile architectures</p><p>- Creating smooth user-focused mobile experiences</p><p><br></p><p>## 🤝 Collaboration &amp; Contact</p><p>- Open to freelance opportunities &amp; innovative mobile projects</p><p>- Interested in collaborating with startups &amp; ambitious teams</p><p>📩 Contact me: mohamedboussouf.dev@gmail.com</p><p><br></p><p>## 🌱 Currently Learning</p><p>- Advanced Problem Solved</p><p>- Advanced Flutter architecture</p><p>- Mobile performance optimization</p><p>- AI integration in mobile applications</p><p>---</p><p>## 🌍 Follow My Programming Journey</p><p>&lt;p align="left"&gt;</p><p>&nbsp; &lt;a href="https://youtube.com/@boussoufengineer"&gt;</p><p>&nbsp; &nbsp; &lt;img src="https://skillicons.dev/icons?i=youtube" /&gt;</p><p>&nbsp; &lt;/a&gt;</p><p>&nbsp; &lt;a href="https://instagram.com/@boussoufengineer"&gt;</p><p>&nbsp; &nbsp; &lt;img src="https://skillicons.dev/icons?i=instagram" /&gt;</p><p>&nbsp; &lt;/a&gt;</p><p>&nbsp; &lt;a href="https://discord.gg/K723ZjsUr"&gt;<br>&nbsp; &nbsp;&lt;img src="https://skillicons.dev/icons?i=discord" /&gt;<br>&nbsp;&lt;/a&gt;</p><p>&lt;/p&gt;</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-💻 Future Software Engineer | Self-taught Developer<br><br>🚀 i build things to solve real-world problems<br>🧠 i learn by understanding how things work, not memorizing code<br>📱 Planning to dive into mobile development after strong fundamentals<br>🔧 i grow daily through projects, experiments, and practice<br>🌍 Sharing my learning journey as i Level up step by step
 
-# 💻 Future Software Engineer | Self-taught Developer
+<h2>💫 About Me:</h2>
+<p>i’m a self-taught developer on a mission to turn ideas into real working software.</p><p><br></p><p>i don’t just code — i try to understand how things actually work under the hood, then build from there.</p><p><br></p><p>Right now, i’m focused on:</p><p><br></p><p>* Building real projects instead of just tutorials</p><p>* Strengthening my software engineering fundamentals</p><p>* Preparing for mobile app development</p><p>* Improving my problem-solving mindset every day</p><p><br></p><p>🎯 My goal is simple: become a strong software engineer who builds useful, real-world products.</p><ul>
+</ul>
 
-🚀 Building real-world projects that solve real problems
-🧠 Learning by understanding systems, not memorizing code
-📱 Preparing to dive into mobile development after strong fundamentals
-🔧 Learning by building, experimenting, and improving daily
-🌍 Sharing my journey while growing step by step into real-world engineering
 
----
+## Tech Stack
 
-## ⚡ About Me
+### Languages:
 
-I’m a self-taught developer on a mission to turn ideas into real working software.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
 
-I don’t just code — I try to understand how things actually work under the hood, then build from there.
+### Libraries & Frameworks:
 
-Right now, I’m focused on:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
 
-* Building real projects instead of just tutorials
-* Strengthening my software engineering fundamentals
-* Preparing for mobile app development
-* Improving my problem-solving mindset every day
+### Tools & Platforms:
 
-🎯 My goal is simple: become a strong software engineer who builds useful, real-world products.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=jira" alt="Jira" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
 
----
+### Databases:
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🧰 Tech Stack (Growing)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📱 Mobile App Ideas (In Progress)
-
-Working on building my first mobile applications with focus on clean UI and real functionality.
-
-### 🌐 Web Development Projects
-
-Small projects that help me understand frontend + backend fundamentals and real-world workflows.
-
-### 🧠 Problem Solving & Logic
-
-Practice projects focused on improving my thinking, algorithms, and coding discipline.
-
----
-
-## 🎯 Current Focus
-
-* Writing cleaner and more structured code
-* Building consistent real-world projects
-* Understanding system design basics
-* Preparing for mobile development journey
-
----
-
-## 🌱 Learning Journey
-
-Every day I learn something new — and I immediately apply it in a project.
-I believe the fastest way to grow is: **learn → build → break → fix → improve** 🔁
-
----
-
-## 📫 Let’s Connect
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="44" height="44" style="margin-right: 10px; margin-bottom: 8px;" />
+</p>
 
 * GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 * Portfolio: Coming soon 🚀
@@ -103,5 +62,4 @@ I believe the fastest way to grow is: **learn → build → break → fix → im
 ⭐ *I’m not just learning to code — I’m learning to build.*
 
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
