@@ -22,7 +22,7 @@
 
 </p>
 
-##💫 About Me:
+<h2>💫 About Me:</h2>
 i’m a self-taught developer on a mission to turn ideas into real working software.
 
 i don’t just code — i try to understand how things actually work under the hood, then build from there.
